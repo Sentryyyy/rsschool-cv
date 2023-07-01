@@ -11,9 +11,9 @@
 I just recently graduated from university.  I work as a system administrator. I would like to upgrade my skills, and try something new.
 
 # Skills:
-* python
-* pascal
-* user of Linux
+* Python
+* Pascal
+* User of Linux
 
 # Education:
 * **KTU**
