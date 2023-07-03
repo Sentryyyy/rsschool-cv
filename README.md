@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Sentryyyy.github.io/rsschool-cv/
